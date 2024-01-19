@@ -1,1 +1,2 @@
-I love you baby
+My first GitHub repo!
+Hello OdinProject!
